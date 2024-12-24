@@ -2,8 +2,6 @@
 - New Developer
 - Programming
 - Games and App development
-- 📫 How to reach me ...
-- ⚡ Fun fact: ...
 
 <!---
 Code-K-I-W-I/Code-K-I-W-I is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
